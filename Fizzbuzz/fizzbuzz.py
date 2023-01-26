@@ -18,5 +18,6 @@ class Solution(object):
                 ret.append(str(i))
         return ret
 
-
+# solution 1 
+# % 3 with zero 
 
